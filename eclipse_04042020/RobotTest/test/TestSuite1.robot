@@ -27,6 +27,7 @@ SampleLoginTest
 ${URL}    https://opensource-demo.orangehrmlive.com/
 @{CRED}    Admin    admin123
 &{CRED1}    password=admin123
+@{CRED123}    Admin    admin1234
 
 *** Keywords ***
 LoginKW
